@@ -5,7 +5,7 @@ Here's what you need:
 - Arduino Uno
 - Wires
 - 2 Servos
-- Something to mount the servos on
+- Something to mount the servos on (vertically and horizontally)
 
 
 https://github.com/user-attachments/assets/0e52c8d6-d81a-4808-a42e-1e0ad6b63eef
