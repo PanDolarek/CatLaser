@@ -8,7 +8,7 @@ Here's what you need:
 - Something to mount the servos on (vertically and horizontally)
 - Laser pointer
 
-The laser moves in a configurable area defined by points.
+The laser moves randomly in a configurable area defined by points.
 
 https://github.com/user-attachments/assets/0e52c8d6-d81a-4808-a42e-1e0ad6b63eef
 
